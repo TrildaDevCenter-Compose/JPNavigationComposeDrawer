@@ -14,7 +14,7 @@ private val Roboto = FontFamily(
     Font(R.font.roboto_mono_bold, FontWeight.Light)
 )
 
-val SampleDrawerTypography = Typography(
+val gTypography = Typography(
     bodyLarge = TextStyle(
         fontFamily = Roboto,
         fontSize = 16.sp,

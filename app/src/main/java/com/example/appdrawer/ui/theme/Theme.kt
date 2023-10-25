@@ -62,7 +62,7 @@ fun SampleDrawerTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = SampleDrawerTypography,
+        typography = lltypography,
         content = content
     )
 }
