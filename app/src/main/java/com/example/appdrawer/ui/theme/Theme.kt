@@ -59,10 +59,10 @@ fun SampleDrawerTheme(
             ViewCompat.getWindowInsetsController(view)?.isAppearanceLightStatusBars = darkTheme
         }
     }
-
+q
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = lltypography,
+        typography = gTypography,
         content = content
     )
 }
